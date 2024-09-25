@@ -1,0 +1,37 @@
+.dashboard-container {
+    display: flex;
+  }
+  
+  .dashboard-content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
+  nav {
+    width: 200px;
+    background-color: #f4f4f4;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 10px 0;
+  }
+  
+  nav button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+  
+  nav ul ul {
+    margin-left: 20px;
+  }
+  

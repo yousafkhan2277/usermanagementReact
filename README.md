@@ -13,3 +13,9 @@ React verison=: 18
 
 Frontend: React js
 Backend : Node js Api
+
+
+### Deployment
+
+npm run build
+

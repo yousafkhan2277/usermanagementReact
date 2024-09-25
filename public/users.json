@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",  
+      "roles": ["admin", "editor"],
+      "permissions": ["view_users", "edit_users", "delete_posts"]
+    },
+    {
+      "id": 2,
+      "username": "jane_doe",
+      "email": "jane@example.com",
+      "password": "password456",
+      "roles": ["viewer"],
+      "permissions": ["view_users"]
+    }
+  ]
+  
